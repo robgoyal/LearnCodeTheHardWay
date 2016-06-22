@@ -1,7 +1,11 @@
+#!/bin/python2
+
+# Variables and Names
+
 # initializing cars to 100
 cars = 100
 # initializing space_in_a_car to 4.0
-# The following variable does not need to be 4.0. The following
+# The variable does not need to be 4.0. The following
 # expressions do not require this variable to a floating point number
 space_in_a_car = 4.0
 # initializing drivers to 30

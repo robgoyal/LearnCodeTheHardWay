@@ -1,3 +1,6 @@
+#!/bin/python2
+# Numbers and Math
+
 # I want to find out what 35 degrees Celsius is in Fahrenheit
 
 temperature = 35

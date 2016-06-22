@@ -1,3 +1,8 @@
+#!/bin/python2
+# More Variables And Printing
+
+# Added lines for converting cm to inches and lbs to kg
+
 name = 'Zed A. Shaw'
 age = 35 # not a lie
 height = 74 #inches

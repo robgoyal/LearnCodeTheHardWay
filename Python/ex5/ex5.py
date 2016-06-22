@@ -1,3 +1,6 @@
+#!/bin/python2
+# More Variables And Printing
+
 my_name = 'Zed A. Shaw'
 my_age = 35 # Not a lie
 my_height = 74 #inches

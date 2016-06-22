@@ -1,3 +1,8 @@
+#!/bin/python2
+# More Variables And Printing
+
+# Modified all variables names and calls that started with my
+
 name = 'Zed A. Shaw'
 age = 35 # not a lie
 height = 74 #inches

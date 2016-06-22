@@ -1,3 +1,6 @@
+#!/bin/python2
+
+# A Good First Program
 
 print "Hello World!"
 #print "Hello Again"

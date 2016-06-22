@@ -1,3 +1,8 @@
+#!/bin/python2
+# Numbers and Math
+
+## Converted all integers to floating point to test differences
+
 print "I will now count my chickens:"
 
 print "Hens", 25.0 + 30.0 / 6.0
