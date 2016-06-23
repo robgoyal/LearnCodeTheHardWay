@@ -1,0 +1,7 @@
+all: 
+	make ex2
+
+# Remove files that are not needed
+clean:
+	rm ex2
+	rm -rf ex2.dSYM
