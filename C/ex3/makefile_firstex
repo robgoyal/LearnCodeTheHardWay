@@ -1,0 +1,9 @@
+CFLAGS= -Wall -g
+
+all: 
+	cc $(CFLAGS) ex3.c -o ex3
+
+# Remove files that are not needed
+clean:
+	rm ex3
+	rm -rf ex3.dSYM
