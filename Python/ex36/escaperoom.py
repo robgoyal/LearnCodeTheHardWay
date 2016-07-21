@@ -47,12 +47,15 @@ def Chest(lockCombo):
 
         else:
             print "That wasn't the correct number. Would you like to \n1. Guess another number? \n2. Try a different object?"
-            nextMove = raw_input("> ")
-            if nextMove == "1":
+            nextMove = int(raw_input("> "))
+            if nextMove == 1:
                 continue
-            elif nextMove == "2":
+            elif nextMove == 2:
                 sleep(2)
                 return
+            else:
+                print "That wasn't an option.\nYOU DIE!."
+                exit(0)
 
 def Key():
     print """
